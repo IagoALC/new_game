@@ -1,0 +1,2 @@
+Placeholder de cena Hub/Base.
+Inclua UI de energia/moedas, botões para Puzzle, Upgrades, Loja, Eventos, Missões.

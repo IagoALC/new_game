@@ -1,0 +1,1 @@
+Placeholder de prefab do tabuleiro de puzzle.

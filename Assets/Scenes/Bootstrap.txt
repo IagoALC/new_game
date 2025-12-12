@@ -1,0 +1,2 @@
+Placeholder de cena Bootstrap.
+Use esta cena como ponto de entrada para carregar sistemas (Ads, Analytics, Remote Config) e mudar para o Hub.

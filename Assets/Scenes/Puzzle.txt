@@ -1,0 +1,2 @@
+Placeholder de cena Puzzle.
+Inclua tabuleiro, HUD de tempo/energia/movimentos, botão de pause e botão de booster.
